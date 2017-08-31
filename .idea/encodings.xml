@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/mapper-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/mapper-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/mapper-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/mapper-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/mapper-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

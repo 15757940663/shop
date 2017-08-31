@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper.iml" filepath="$PROJECT_DIR$/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper-dao/mapper-dao.iml" filepath="$PROJECT_DIR$/mapper/mapper-dao/mapper-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper-interface/mapper-interface.iml" filepath="$PROJECT_DIR$/mapper/mapper-interface/mapper-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper-pojo/mapper-pojo.iml" filepath="$PROJECT_DIR$/mapper/mapper-pojo/mapper-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper-service/mapper-service.iml" filepath="$PROJECT_DIR$/mapper/mapper-service/mapper-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper-web/mapper-web.iml" filepath="$PROJECT_DIR$/mapper/mapper-web/mapper-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+    </modules>
+  </component>
+</project>
